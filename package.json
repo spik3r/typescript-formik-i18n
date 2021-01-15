@@ -1,5 +1,6 @@
 {
-  "name": "formik-test",
+  "homepage": "http://spik3r.github.io/typescript-formik-i18n",
+  "name": "typescript-formik-i18n",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +11,7 @@
     "@types/react": "16.9.11",
     "@types/react-dom": "16.9.3",
     "formik": "^2.0.3",
+    "gh-pages": "^3.1.0",
     "i18next": "^19.8.4",
     "i18next-browser-languagedetector": "^6.0.1",
     "i18next-http-backend": "^1.0.21",
@@ -21,6 +23,7 @@
     "yup": "^0.27.0"
   },
   "scripts": {
+    "deploy": "yarn build && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

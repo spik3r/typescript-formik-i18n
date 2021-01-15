@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,sBACE,WACF,CACA,6CACE,qBAAsB,CACtB,UACF,CACA,iBACE,UACF","file":"main.83246e79.chunk.css","sourcesContent":[".language-menu-button {\n  padding: 8px;\n}\n.selected-button, .language-menu-button:hover {\n  background-color: #aaa;\n  color: white;\n}\n.login-container {\n  margin: 8px;\n}"]}
