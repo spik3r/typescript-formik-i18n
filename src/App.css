@@ -1,0 +1,10 @@
+.language-menu-button {
+  padding: 8px;
+}
+.selected-button, .language-menu-button:hover {
+  background-color: #aaa;
+  color: white;
+}
+.login-container {
+  margin: 8px;
+}
