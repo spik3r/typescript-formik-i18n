@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49367c30d1c8020dc21c83163b22da54",
+    "revision": "8057cfb8666446d9faea9a7092d9513d",
     "url": "/typescript-formik-i18n/index.html"
   },
   {
-    "revision": "5f3a7f6dd2a044f91844",
+    "revision": "960c0fc2c8f0f228e45f",
     "url": "/typescript-formik-i18n/static/css/main.83246e79.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/typescript-formik-i18n/static/js/2.e912b63b.chunk.js"
   },
   {
-    "revision": "5f3a7f6dd2a044f91844",
-    "url": "/typescript-formik-i18n/static/js/main.4879edf1.chunk.js"
+    "revision": "960c0fc2c8f0f228e45f",
+    "url": "/typescript-formik-i18n/static/js/main.6ca6936c.chunk.js"
   },
   {
     "revision": "544e9b3f4dfd15bb20b3",
