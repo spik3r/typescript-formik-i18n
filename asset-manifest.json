@@ -1,22 +1,21 @@
 {
   "files": {
     "main.css": "/typescript-formik-i18n/static/css/main.83246e79.chunk.css",
-    "main.js": "/typescript-formik-i18n/static/js/main.6ca6936c.chunk.js",
-    "main.js.map": "/typescript-formik-i18n/static/js/main.6ca6936c.chunk.js.map",
+    "main.js": "/typescript-formik-i18n/static/js/main.e98f0a76.chunk.js",
+    "main.js.map": "/typescript-formik-i18n/static/js/main.e98f0a76.chunk.js.map",
     "runtime-main.js": "/typescript-formik-i18n/static/js/runtime-main.a27e9eb3.js",
     "runtime-main.js.map": "/typescript-formik-i18n/static/js/runtime-main.a27e9eb3.js.map",
-    "static/js/2.e912b63b.chunk.js": "/typescript-formik-i18n/static/js/2.e912b63b.chunk.js",
-    "static/js/2.e912b63b.chunk.js.map": "/typescript-formik-i18n/static/js/2.e912b63b.chunk.js.map",
+    "static/js/2.9e6692ec.chunk.js": "/typescript-formik-i18n/static/js/2.9e6692ec.chunk.js",
+    "static/js/2.9e6692ec.chunk.js.map": "/typescript-formik-i18n/static/js/2.9e6692ec.chunk.js.map",
     "index.html": "/typescript-formik-i18n/index.html",
-    "precache-manifest.381725771c31dc4397c7309be934cac4.js": "/typescript-formik-i18n/precache-manifest.381725771c31dc4397c7309be934cac4.js",
+    "precache-manifest.c087bd00fade5cee8bb3b284e1f68b82.js": "/typescript-formik-i18n/precache-manifest.c087bd00fade5cee8bb3b284e1f68b82.js",
     "service-worker.js": "/typescript-formik-i18n/service-worker.js",
-    "static/css/main.83246e79.chunk.css.map": "/typescript-formik-i18n/static/css/main.83246e79.chunk.css.map",
-    "static/media/getFetch.cjs": "/typescript-formik-i18n/static/media/getFetch.013f0b90.cjs"
+    "static/css/main.83246e79.chunk.css.map": "/typescript-formik-i18n/static/css/main.83246e79.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a27e9eb3.js",
-    "static/js/2.e912b63b.chunk.js",
+    "static/js/2.9e6692ec.chunk.js",
     "static/css/main.83246e79.chunk.css",
-    "static/js/main.6ca6936c.chunk.js"
+    "static/js/main.e98f0a76.chunk.js"
   ]
 }
