@@ -1,0 +1,12 @@
+{
+    "loginPage": {
+      "loginButton": "Login",
+      "loading": "Loading...",
+      "emailPlaceHolder": "email",
+      "passwordPlaceHolder": "password",
+      "requiredError": "* required",
+      "invalidEmailError": "Please provide valid email.",
+      "invalidPasswordError": "Please provide a password with at least 8 characters.",
+      "passwordError": "* incorrect password"
+    }
+}

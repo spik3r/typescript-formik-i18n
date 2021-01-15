@@ -1,0 +1,12 @@
+{
+    "loginPage": {
+      "loginButton": "Connexion",
+      "loading": "Chargement...",
+      "emailPlaceHolder": "Adresse courriel",
+      "passwordPlaceHolder": "Mot de passe",
+      "requiredError": "* Ce champ est requis",
+      "invalidEmailError": "Veuillez fournir un adresse courriel valide.",
+      "invalidPasswordError": "Veuillez fournir un mot de passe d'au moins 8 caractères.",
+      "passwordError": "* Mot de passe incorrect"
+    }
+}

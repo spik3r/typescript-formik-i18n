@@ -1,25 +1,22 @@
 import i18n from 'i18next';
-import Backend from 'i18next-http-backend';
-import LanguageDetector from 'i18next-browser-languagedetector';
-import {initReactI18next} from 'react-i18next';
+import { initReactI18next } from 'react-i18next';
+import english from './locales/en/translation.json';
+import french from './locales/fr/translation.json';
+console.table(french)
+console.table(english)
 
 export const i18nInit = async () => i18n
-.use(Backend)
-.use(LanguageDetector)
-.use(initReactI18next)
-.init({
-  fallbackLng: 'en',
-  debug: true,
-  detection: {
-    order: ['queryString', 'cookie'],
-    cache: ['cookie'],
-  },
-  interpolation: {
-    escapeValue: false,
-  },
-  react: {
-    wait: true,
- },
-});
+  .use(initReactI18next)
+  .init({
+    debug: true,
+    fallbackLng: 'fr',
+    lng: 'en',
+    load: 'all',
+    ns: ["translation"],
+    defaultNS: "translation",
+    resources: { en: {translation: english}, fr: {translation: french} },
+    react: { wait: true },
+    interpolation: { escapeValue: false },
+  });
 
 export default i18n;
